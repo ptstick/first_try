@@ -1,3 +1,4 @@
+# git에 올리고 확인하려함
 import RPi.GPIO as GPIO
 import time
 import threading
